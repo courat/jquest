@@ -1,0 +1,8 @@
+name: JumpConquest
+main: fr.koora.jumpconquest.Main
+version: 1.0
+author: Koora_
+depend: [Vault]
+commands:
+  jquest:
+    description: Commande principale du plugin.
